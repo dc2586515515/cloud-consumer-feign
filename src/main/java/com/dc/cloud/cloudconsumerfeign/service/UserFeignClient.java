@@ -2,7 +2,6 @@ package com.dc.cloud.cloudconsumerfeign.service;
 
 import com.dc.cloud.cloudconsumerfeign.vo.User;
 import org.springframework.cloud.netflix.feign.FeignClient;
-import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
